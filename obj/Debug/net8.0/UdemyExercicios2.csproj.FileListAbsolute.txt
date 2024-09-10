@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\UdemyExercicios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\UdemyExercicios2.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\UdemyExercicios2.AssemblyInfo.cs
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\UdemyExercicios2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\bin\Debug\net8.0\UdemyExercicios2.exe
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\bin\Debug\net8.0\UdemyExercicios2.deps.json
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\bin\Debug\net8.0\UdemyExercicios2.runtimeconfig.json
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\bin\Debug\net8.0\UdemyExercicios2.dll
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\bin\Debug\net8.0\UdemyExercicios2.pdb
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\UdemyExercicios2.dll
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\refint\UdemyExercicios2.dll
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\UdemyExercicios2.pdb
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\UdemyExercicios2.genruntimeconfig.cache
+C:\Users\pc\source\repos\UdemyExercicios2\UdemyExercicios2\obj\Debug\net8.0\ref\UdemyExercicios2.dll
